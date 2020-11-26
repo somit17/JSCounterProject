@@ -1,0 +1,24 @@
+.heading {
+  text-align: center;
+  width: 10%;
+  margin-left: 45%;
+  margin-right: 45%;
+}
+body {
+  background-color: #ffebcd;
+}
+.box {
+  border-width: 1px;
+  border-style: solid;
+  height: auto;
+  margin-top: 25%;
+  margin-bottom: 25%;
+  margin-left: 35%;
+  margin-right: 35%;
+  width: 30%;
+  text-align: center;
+}
+
+.counter{
+    font-size: 80px;
+}
